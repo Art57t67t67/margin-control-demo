@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Margin Control — demo</title>
+<style>
+body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:860px;margin:40px auto;padding:0 18px;line-height:1.55}
+h1{font-size:2rem}.card{border:1px solid #aaa;border-radius:12px;padding:18px;margin:18px 0}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px}
+.fact{border:1px solid #bbb;border-radius:9px;padding:12px}.muted{opacity:.7}
+</style>
+</head>
+<body>
+<h1>Margin Control</h1>
+<p>Инструмент для анализа CSV-таблиц цен и себестоимости: показывает товары ниже целевой маржи, изменение маржи и минимальную цену для возврата к цели.</p>
+<div class="facts">
+  <div class="fact"><b>Локально</b><br><span class="muted">данные не уходят в облако</span></div>
+  <div class="fact"><b>CSV → отчёт</b><br><span class="muted">Markdown / CSV / JSON</span></div>
+  <div class="fact"><b>Без подписки</b><br><span class="muted">Node.js 20+</span></div>
+</div>
+<div class="card">
+<h2>Реальный демо-результат</h2>
+<p>На тестовом наборе из 10 SKU инструмент рассчитывает взвешенную маржу 40,88% и обнаруживает SKU-1007 / HDMI Adapter с маржой 14,29%, изменением −30,71 п.п. и минимальной ценой 4,80 для целевой маржи 25%.</p>
+</div>
+<div class="card">
+<h2>Статус</h2>
+<p>Это публичное демо существующего EXCEL-002. Подтверждённых продаж, отзывов или пользовательской статистики пока нет — страница этого не утверждает.</p>
+<p class="muted">Ограничения: CSV only; прямое чтение .xlsx не реализовано.</p>
+</div>
+</body>
+</html>
