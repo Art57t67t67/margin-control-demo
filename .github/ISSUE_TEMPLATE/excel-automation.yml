@@ -1,0 +1,58 @@
+name: Автоматизация Excel / CSV
+description: Заявка на одну ограниченную задачу по Excel/CSV
+title: "[Excel/CSV] "
+labels: ["order"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Тестовый оффер: одна компактная автоматизация, ориентир 3 000 ₽ и до 2 дней.
+        Не публикуйте пароли, токены, банковские реквизиты и другие секреты.
+  - type: dropdown
+    id: task_type
+    attributes:
+      label: Что нужно автоматизировать
+      options:
+        - Объединение файлов/листов
+        - Очистка и приведение данных
+        - Удаление дублей
+        - Сверка/сопоставление таблиц
+        - Формулы/расчёты по правилам
+        - Итоговый отчёт
+        - Перенос данных между таблицами
+        - Другое
+    validations:
+      required: true
+  - type: textarea
+    id: current_process
+    attributes:
+      label: Что сейчас делаете вручную
+      description: Кратко опишите последовательность действий.
+    validations:
+      required: true
+  - type: textarea
+    id: expected_result
+    attributes:
+      label: Какой результат должен получаться
+      description: Можно описать словами или привести обезличенный пример структуры.
+    validations:
+      required: true
+  - type: input
+    id: files
+    attributes:
+      label: Примерный объём
+      placeholder: например, 2 файла по 5 000 строк
+  - type: input
+    id: excel_version
+    attributes:
+      label: Версия Excel
+      placeholder: например, Microsoft 365 / Excel 2021 / не важно
+  - type: checkboxes
+    id: scope
+    attributes:
+      label: Подтверждение
+      options:
+        - label: Для первичной оценки я не публикую пароли, токены и конфиденциальные данные
+          required: true
+        - label: Я понимаю, что базовый ориентир относится к одной компактной задаче; больший объём оценивается отдельно до начала работ
+          required: true
