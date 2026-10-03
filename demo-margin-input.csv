@@ -1,0 +1,11 @@
+sku,product,price,cost,qty,base_price,base_cost
+SKU-1001,Wireless Mouse,24.90,11.50,120,27.50,11.20
+SKU-1002,USB-C Cable 2m,7.40,2.10,450,7.40,2.10
+SKU-1003,Mechanical Keyboard,79.00,46.00,35,69.00,42.00
+SKU-1004,Webcam 1080p,52.00,38.00,20,55.00,36.00
+SKU-1005,Laptop Stand,18.30,12.90,80,18.30,12.90
+SKU-1006,Noise-Cancelling Earbuds,64.00,44.00,60,59.00,40.00
+SKU-1007,HDMI Adapter,4.20,3.60,500,6.00,3.30
+SKU-1008,Desk Mat XL,21.00,9.40,70,21.00,9.40
+SKU-1009,Portable SSD 1TB,89.00,63.00,25,84.00,61.00
+SKU-1010,Microphone USB,39.50,27.00,40,42.00,25.50
