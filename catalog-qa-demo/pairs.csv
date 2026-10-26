@@ -1,0 +1,4 @@
+pair_id;a_name;b_name;a_brand;b_brand;a_part_number;b_part_number;a_quantity;b_quantity;a_packaging;b_packaging
+P001;Держатель для шлема;Кронштейн для шлема;DEMO-TOOLS;DEMO-TOOLS;HT-204;HT-204;1;1;коробка;коробка
+P002;Крепление для шлема;Крепление для шлема;DEMO-TOOLS;DEMO-TOOLS;HT-204;HT-205;1;1;коробка;коробка
+P003;Чашка;Чашка;;;;;;;;
