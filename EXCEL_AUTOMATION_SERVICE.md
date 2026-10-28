@@ -27,6 +27,6 @@
 
 В базовый объём не входят сложные интеграции, постоянная поддержка, крупные CRM/ERP/BI-проекты, бухгалтерские, налоговые или юридические консультации. Внедрение с доступом к чужим аккаунтам отдельно здесь не предлагается.
 
-[**Обсудить задачу на Freelance.ru**](https://freelance.ru/offer/avtomatizaciya-excel-csv-i-obrabotka-dannyh-104236.html)
+**Заказать после согласования объёма:** [**Kwork — 3 000 ₽**](https://kwork.ru/script-programming/55025200/ochishchu-obedinyu-i-sveryu-dannie-excel-ili-csv) · [**Freelance.ru — 3 000 ₽**](https://freelance.ru/offer/avtomatizaciya-excel-csv-i-obrabotka-dannyh-104236.html). Это карточки услуги, не продажа готовой программы.
 
 [Заявка через GitHub](https://github.com/Art57t67t67/margin-control-demo/issues/new?template=excel-automation.yml) публична и требует GitHub-аккаунт. Достаточно описания структуры; пароли, токены и конфиденциальные данные для оценки не нужны.

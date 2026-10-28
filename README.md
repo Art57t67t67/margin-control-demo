@@ -6,7 +6,9 @@
 
 **Одна компактная задача — 3 000 ₽, срок до 2 дней после согласования задания и получения данных.** Базовый объём: один сценарий, до 3 связанных файлов или листов и одна небольшая корректировка. Больший объём оценивается отдельно до начала работ.
 
-[**Обсудить задачу в карточке Freelance.ru**](https://freelance.ru/offer/avtomatizaciya-excel-csv-i-obrabotka-dannyh-104236.html) · [Что входит в услугу](./EXCEL_AUTOMATION_SERVICE.md)
+**Выбрать площадку для заказа услуги:** [**Kwork — 3 000 ₽**](https://kwork.ru/script-programming/55025200/ochishchu-obedinyu-i-sveryu-dannie-excel-ili-csv) · [**Freelance.ru — 3 000 ₽**](https://freelance.ru/offer/avtomatizaciya-excel-csv-i-obrabotka-dannyh-104236.html) · [Что входит в услугу](./EXCEL_AUTOMATION_SERVICE.md).
+
+Это существующие карточки услуги по индивидуальному заданию, а **не автоматическая покупка или скачивание приложения**. Правила, объём и результат согласуются до начала работы.
 
 ## Открыть готовые примеры
 
